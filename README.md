@@ -176,4 +176,8 @@ Load cookies using a browser extension like Cookie-Editor.
 Save the cookies as a JSON file named cookies.json.  
 Invalid URL:  
 
-Ensure the URL is properly formatted (e.g., https://example.com).
+Ensure the URL is properly formatted (e.g., https://example.com).  
+# Example
+example.py includes instruments  
+Visit: https://pypi.org/project/cloudscraper/
+https://requests.readthedocs.io/en/latest/
