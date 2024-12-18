@@ -11,3 +11,11 @@ Libraries Used
 A powerful HTTP library for sending requests and handling responses.  
 Used here to fetch web pages with or without cookies.  
 Example:  
+```python
+import requests
+
+url = "https://example.com"
+response = requests.get(url)
+if response.status_code == 200:
+    print("Page fetched successfully!")
+```
