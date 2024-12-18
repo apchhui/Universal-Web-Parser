@@ -181,3 +181,5 @@ Ensure the URL is properly formatted (e.g., https://example.com).
 example.py includes instruments  
 Visit: https://pypi.org/project/cloudscraper/
 https://requests.readthedocs.io/en/latest/
+
+# Features
